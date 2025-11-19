@@ -12,7 +12,7 @@
 ### Download Release
 *Get the complete project instantly:*
 
-[![Download CROSSPLATFORMLAB8ACTIVITY](https://img.shields.io/badge/Download-CROSSPLATFORMLAB8ACTIVITY.zip-blue?style=for-the-badge&logo=download)](https://github.com/hjoseph777/CROSSPLATFORMLAB8ACTIVITY.ZIP)
+[![Download CrossPlatformLab8Activity](https://img.shields.io/badge/Download-CrossPlatformLab8Activity.zip-blue?style=for-the-badge&logo=download)](https://github.com/hjoseph777/CrossPlatformLab8Activity/archive/refs/heads/main.zip)
 
 ### Live Demo
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://crossplatformlab8activity.vercel.app)
