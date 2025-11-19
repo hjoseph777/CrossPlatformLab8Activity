@@ -15,9 +15,9 @@
 [![Download CrossPlatformLab8Activity](https://img.shields.io/badge/Download-CrossPlatformLab8Activity.zip-blue?style=for-the-badge&logo=download)](https://github.com/hjoseph777/CrossPlatformLab8Activity/archive/refs/heads/main.zip)
 
 ### Live Demo
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://crossplatformlab8activity.vercel.app)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://cross-platform-lab8-activity.vercel.app)
 
-**Try it now:** [Live Demo on Vercel](https://crossplatformlab8activity.vercel.app) - Interactive gesture demo in your browser
+**Try it now:** [Live Demo on Vercel](https://cross-platform-lab8-activity.vercel.app) - Interactive gesture demo in your browser
 
 ## Overview
 Lab8Activity demonstrates touch gesture handling in React Native using PanResponder. The project showcases how to create draggable components with smooth animations, spring-back effects, and visual feedback that work consistently across web and mobile platforms.
